@@ -34,7 +34,7 @@ Learning Outcomes
 Textbook
 --------
 
-Our primery text for the class will be [https://eloquentjavascript.net/](Eloquent javaScript)
+Our primery text for the class will be [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 All other reading material will be available on the class website in pdf format. Students will not need to purchase any books for this class.
 
