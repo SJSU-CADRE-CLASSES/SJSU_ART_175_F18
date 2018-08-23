@@ -78,8 +78,8 @@ Schedule
 | Class_Date          |                                                                                                                                                                        |
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *Week 1* 08/21      | Course Introduction /Overview of Syllabus ** Introductions (Instructor-Students) ** Online Research ** Git Registration |
-| 08/23               | **Due: Discuss reading 1--> Post 400-600 Word Reading Response On Class Git** ** Choose 1-3 sites to discuss from [https://anthology.rhizome.org/](https://anthology.rhizome.org/) for Reading 1 ** EQJS: 1 + 2 ** JS Lesson 1 |
-| *Week 2*08/28       | JS Lesson 1 Extended ** Screen related works ** Assign: Assignment One ** Assign: Project One |
+| 08/23               | **Due: Discuss reading 1** ** Choose 1-3 sites to discuss from [https://anthology.rhizome.org/](https://anthology.rhizome.org/) for Reading 1 ** EQJS: 1 + 2 ** JS Lesson 1 |
+| *Week 2*08/28       | **Post 400-600 Word Reading Response On Class Git** JS Lesson 1 Extended ** Screen related works ** Assign: Assignment One ** Assign: Project One |
 | 08/30               | **Due: JS Assignment One** ** EQJS: 3 + 4 ** JS Lesson 2 ** Class exercise/JS Problem Solving |
 | *Week 3* 09/07      | Screen related works ** Ideas + Concepts for the first project (each student must come to class with sketches/storyboard/research notes/and concepts they are interested in) ** Assign: Reading Two http://www.vdrome.org/jesse-mc-lean/ |
 | 08/30               | **Due: Reading Two** ** EQJS: 5 ** JS Lesson 3 |
