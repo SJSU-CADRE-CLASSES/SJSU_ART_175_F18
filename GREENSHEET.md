@@ -83,33 +83,33 @@ Schedule
 | 08/23               | **Due: Discuss reading 1** ** Choose 1-3 sites to discuss from [https://anthology.rhizome.org/](https://anthology.rhizome.org/) for Reading 1 ** Intro to EQJS: 1 + 2 ** JS Lesson 1 |
 | *Week 2* 08/28      | **Post 400-600 Word Reading Response On Class Git** JS Lesson 1 Extended ** Screen related works ** Assign: Assignment One ** Assign: Project One |
 | 08/30               | EQJS: 3 + 4 ** JS Lesson 2 ** Class exercise/JS Problem Solving |
-| *Week 3* 09/07      | **Due: JS Assignment One** Screen related works ** Ideas + Concepts for the first project (each student must come to class with sketches/storyboard/research notes/and concepts they are interested in) ** Assign: Reading Two http://www.vdrome.org/jesse-mc-lean/ |
-| 08/30               | EQJS: 5 ** JS Lesson 3 |
-| *Week 4* 09/14      | **Due: Reading Two** Workshop Day (working on your first project) |
-| 09/04               | **First Project DUE** **Presentation Day  ---> Student Presentation of First Project** |
-| *Week 5* 09/21      | **Presentation Day  ---> Student Presentation of First Project** |
-| 09/06               | ** JS Lesson 4 ** Class Exercise ** Assign: Reading Three |
-| *Week 6* 09/28      | Assign: Reading Three [https://schloss-post.com/pretend-bot-rehumanize-web/](https://schloss-post.com/pretend-bot-rehumanize-web/) ** EQJS: 6 + 7  ** Assign: Project Two|
-| 10/03               | **Due: Reading Three** EQJS: 6 ** JS Lesson 5 ** In Class Ideation + Concepts for Project Two |
-| *Week 7* 10/05      | EQJS: 6 **Due: Ideation for Project Two** JS Problem Solving/Workshop Day |
-| 10/10               | EQJS: 7 ** JS Lesson 6 ** Reading Four: [http://www.e-flux.com/architecture/post-internet-cities/140712/on-the-internet-no-one-knows-you-re-a-doghouse/](http://www.e-flux.com/architecture/post-internet-cities/140712/on-the-internet-no-one-knows-you-re-a-doghouse/) ** work in class |
-| *Week 8* 10/12      | EQJS: 8 ** Screen: Related Work |
-| 10/17               | EQJS: 9 + 10 ** JS Lesson 7 ** **Due: Reading Four** Work in class on Project Two |
-| *Week 9* 10/19      | *EQJS: 9 + 10 ** JS Lesson 7 Work in class on Project Two  | 
-| 10/24               | **Presentation Day ---> Student Presentation of Second Project** |
-| *Week 10* 10/26     | **Presentation Day ---> Student Presentation of Second Project** |
-| 10/31               | ** Screen: Related Work ** JS Lesson 9 intro to pi ** Assign: Third Project |
-| *Week 11* 11/02     | ** EQJS: 10 ** Assign: https://docs.google.com/document/d/1ndd-siDAAiAT1i_zzrG9ACiz5ISastLYvtUrlwyVbqM/edit#heading=h.xp2dduy9ed6v (Read main question and three to five responses) |
-| 11/07               | **Due: Reading Five** ** EQJS: 10 ** JS Lesson 10 |
-| *Week 12* 11/09     | Screen Inspiration Videos + discussion ** Work in class on projects |
-| 11/14               | EQJS: 20 + 21 ** JS Lesson 11 ** Workshop day for third Project ** Assign: Introduction of Final|
-| *Week 13* 11/16     | Workshop day or Optional ATC in MLK |
-| 11/21               | **Third Project Due** |
-| *Week 14* 11/23     | Thanksgiving – no class
-| 11/26               | Monday Installation of project three in Gallery 8 |
-| *Week 15* 11/28     | **Due Ideas + Concepts for the final project** (each student/team must post to git with sketches/research notes/and concepts they are interested in) Work in class on final |
-| 11/30               | Final Workshop |
-| *Week 16* 12/05     | **Presentation Day** ---> Student Presentation of Final Project |
-| 12/07               | **Presentation Day** ---> Student Presentation of Final Project |
+| *Week 3* 09/04      | **Due: JS Assignment One** Screen related works ** Ideas + Concepts for the first project (each student must come to class with sketches/storyboard/research notes/and concepts they are interested in) ** Assign: Reading Two http://www.vdrome.org/jesse-mc-lean/ |
+| 09/6               | EQJS: 5 ** JS Lesson 3 |
+| *Week 4* 09/11      | **Due: Reading Two** Workshop Day (working on your first project) |
+| 09/13               | ** JS Lesson 4 ** Class Exercise ** |
+| *Week 5* 09/18      | **First Project DUE** **Presentation Day  ---> Student Presentation of First Project** |
+| 09/20               | **Presentation Day  ---> Student Presentation of First Project** |
+| *Week 6* 09/25      | Assign: Reading Three ** EQJS: 6 + 7  ** Assign: Project Two|
+| 09/27               | EQJS: 6 ** JS Lesson 5 ** In Class Ideation + Concepts for Project Two |
+| *Week 7* 10/02      | **Due: Reading Three** EQJS: 6 JS Problem Solving/Workshop Day |
+| 10/04               | EQJS: 7 ** JS Lesson 6 ** Assign Reading Four ** work in class |
+| *Week 8* 10/09      | **Due: Ideation for Project Two** EQJS: 8 ** Screen: Related Work |
+| 10/11               | EQJS: 9 + 10 ** JS Lesson 7 Work in class on Project Two ** Assign Reading Four |
+| *Week 9* 10/16      | **Due: Reading Four** *EQJS: 9 + 10 ** JS Lesson 7 Work in class on Project Two  | 
+| 10/18               | Screen: Related Work ** JS Lesson 9 |
+| *Week 10* 10/23     | **Presentation Day ---> Student Presentation of Second Project** |
+| 10/25               | **Presentation Day ---> Student Presentation of Second Project** |
+| *Week 11* 10/30     | ** EQJS: 10 ** intro to pi ** Assign: Third Project Assign Reading Five |
+| 11/01               | **Due: Reading Five** ** EQJS: 10 ** JS Lesson 10 |
+| *Week 12* 11/06     | Screen Inspiration Videos + discussion ** Work in class on projects |
+| 11/08               | EQJS: 20 + 21 ** JS Lesson 11 ** Workshop day for third Project ** Assign: Introduction of Final|
+| *Week 13* 11/13     | Workshop day or Optional ATC in MLK |
+| 11/15               | **Third Project Due** |
+| *Week 14* 11/20     | Screen Inspiration Videos + discussion ** Work in class on projects |
+| 11/22               | Thanksgiving – no class |
+| *Week 15* 11/27     | **Due Ideas + Concepts for the final project** (each student/team must post to git with sketches/research notes/and concepts they are interested in) Work in class on final |
+| 11/29               | Final Workshop |
+| *Week 16* 12/04     | **Presentation Day** ---> Student Presentation of Final Project |
+| 12/06               | **Presentation Day** ---> Student Presentation of Final Project |
 | *Final*  12/17      | **Final Project Due** *** The final project + paper is due no later then Sunday December 17th |
 |                  |  |
