@@ -3,7 +3,7 @@
 Department of Art and Art History
 Art 175, Fall 2018
 
-![gif](http://i.imgur.com/TuOehiT.gif)
+![gif](https://i.imgur.com/pS5lIDd.gif)
 
 Instructor: Andrew Blanton
 Office: Art 311
