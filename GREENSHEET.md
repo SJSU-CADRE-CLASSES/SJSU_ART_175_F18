@@ -34,7 +34,9 @@ Learning Outcomes
 Textbook
 --------
 
-All the reading material will be available on the class website in pdf format. Students will not need to purchase any books for this class.
+Our primery text for the class will be [https://eloquentjavascript.net/](Eloquent javaScript)
+
+All other reading material will be available on the class website in pdf format. Students will not need to purchase any books for this class.
 
 Other equipment / material requirements (optional)
 
