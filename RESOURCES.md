@@ -26,6 +26,7 @@ Resources
 4. https://aframe.io/examples/showcase/helloworld/
 5. http://panthermodern.org/
 6. https://whitney.org/
+
 8/23
 1. https://www.w3schools.com/
 2. https://aframe.io/docs/0.8.0/introduction/installation.html
