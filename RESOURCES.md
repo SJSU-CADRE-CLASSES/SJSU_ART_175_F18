@@ -21,3 +21,12 @@ Resources
 
 8/21
 Art Thoughtz https://www.youtube.com/user/HennesyYoungman
+8/23
+https://www.w3schools.com/
+https://aframe.io/docs/0.8.0/introduction/installation.html
+http://therevolvinginternet.com/
+http://9-eyes.com/
+http://jonrafman.com/poormagic/
+https://www.youtube.com/watch?v=9MhfATPZA0g
+https://vimeo.com/12095422
+https://anthology.rhizome.org/blind-spot
