@@ -20,13 +20,18 @@ Resources
 ---------
 
 8/21
-Art Thoughtz https://www.youtube.com/user/HennesyYoungman
+1. Art Thoughtz https://www.youtube.com/user/HennesyYoungman
+2. https://ars.electronica.art/error/de/
+3. https://eloquentjavascript.net/
+4. https://aframe.io/examples/showcase/helloworld/
+5. http://panthermodern.org/
+6. https://whitney.org/
 8/23
-https://www.w3schools.com/
-https://aframe.io/docs/0.8.0/introduction/installation.html
-http://therevolvinginternet.com/
-http://9-eyes.com/
-http://jonrafman.com/poormagic/
-https://www.youtube.com/watch?v=9MhfATPZA0g
-https://vimeo.com/12095422
-https://anthology.rhizome.org/blind-spot
+1. https://www.w3schools.com/
+2. https://aframe.io/docs/0.8.0/introduction/installation.html
+3. http://therevolvinginternet.com/
+4. http://9-eyes.com/
+5. http://jonrafman.com/poormagic/
+6. https://www.youtube.com/watch?v=9MhfATPZA0g
+7. https://vimeo.com/12095422
+8. https://anthology.rhizome.org/blind-spot
