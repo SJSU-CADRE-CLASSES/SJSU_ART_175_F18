@@ -14,7 +14,7 @@ tragic depriving people of information is. It’s the physicality it attains. It
 and zeros that one can’t access, to a real thing with weight. Something one can hold in their hands. Alas it has been over a decade
 since this piece's creation and censorship in China seems to be as strong if not stronger than ever.
 
-	Finally I was spent some time looking at Cao Fei’s second life creation “RMB City”. While, I don’t find the actual look and
+Finally I was spent some time looking at Cao Fei’s second life creation “RMB City”. While, I don’t find the actual look and
   aesthetics of the city, I am intrigued by the experimental nature of what it represented, an avante-garde virtual community. I’ve
   always wondered by som much of user created content in things like second life mirror reality, and it would seem Fei had the same
   question. The whole place is an abstracted depiction of china during a state of economic decline. Yet despite all the abstraction
