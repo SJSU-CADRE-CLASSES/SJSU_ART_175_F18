@@ -1,5 +1,5 @@
 Xiao Reading One
-----------------
+===============
 
 The first work that interested me is The Dollie Clone Series created by Lynn Hershman Leeson. Basically, Lynn replaced a doll’s eye with a webcam and make it a ‘cyborg’. The webcam was connected to the internet and allows the audience seeing things from the doll’s sight. In addition, the audience are able to control the direction of the webcam by remote manipulate on a website. I love this work because it makes the doll out of the ordinary. It gives a creepy feeling made by the contemporary technology. I also love how this work let audiences participate into it. In my opinion, the participation extended the audience’s perspective, and make the doll an actual cyborg -- part life and part machine. 
 
