@@ -36,3 +36,18 @@ Resources
 6. https://www.youtube.com/watch?v=9MhfATPZA0g
 7. https://vimeo.com/12095422
 8. https://anthology.rhizome.org/blind-spot
+
+8/29
+1. Alan Tutorial https://www.youtube.com/watch?v=xdL1sq73Fng
+2. Markdown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+3. intotime http://intotime.com/
+4. Dan Flavin https://en.wikipedia.org/wiki/Dan_Flavin
+5. Poppy https://www.youtube.com/channel/UC8JE00xTMBOqKs7o0grFTfQ
+6. Haribo Gold-Bears https://www.amazon.com/product-reviews/B000EVOSE4/ref=acr_dpproductdetail_text?ie=UTF8&showViewpoints=1
+7. Ramsey Nasser http://nas.sr/
+8. Blank Room Soup https://www.youtube.com/watch?v=6VMRAGxjOoA
+9. godaddy extensions https://www.godaddy.com/tlds/gtld.aspx?catId=0
+10. parts of a computer https://callnerds.com/basic-computer-parts-explained/
+11. narcissister http://www.narcissister.com/
+12. James Turrell http://jamesturrell.com/
+13. bluehost https://bluehost.com/
