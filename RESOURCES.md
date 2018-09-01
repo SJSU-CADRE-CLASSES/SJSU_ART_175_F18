@@ -37,7 +37,7 @@ Resources
 7. https://vimeo.com/12095422
 8. https://anthology.rhizome.org/blind-spot
 
-8/29
+8/28
 1. Alan Tutorial https://www.youtube.com/watch?v=xdL1sq73Fng
 2. Markdown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 3. intotime http://intotime.com/
@@ -51,3 +51,15 @@ Resources
 11. narcissister http://www.narcissister.com/
 12. James Turrell http://jamesturrell.com/
 13. bluehost https://bluehost.com/
+
+8/30
+1. aframe on glitch https://glitch.com/~aframe
+2. threejs https://threejs.org/
+3. Dust https://vrdust.org.uk/
+4. car ad http://vr.ff.com/us/
+5. track web gl experiment https://demos.littleworkshop.fr/track
+6. paperplanes https://paperplanes.world/
+7. threejs source https://github.com/mrdoob/three.js/blob/master/examples/webgl_effects_parallaxbarrier.html
+8. poly + tiltbrush https://poly.google.com/view/97t28G5tDt7
+9. threejs editor https://threejs.org/editor/
+
