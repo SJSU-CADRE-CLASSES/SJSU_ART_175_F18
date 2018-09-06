@@ -63,3 +63,4 @@ Resources
 8. poly + tiltbrush https://poly.google.com/view/97t28G5tDt7
 9. threejs editor https://threejs.org/editor/
 
+http://americanidolauditiontraining.blogs.com
