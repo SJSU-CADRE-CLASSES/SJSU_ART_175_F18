@@ -63,4 +63,29 @@ Resources
 8. poly + tiltbrush https://poly.google.com/view/97t28G5tDt7
 9. threejs editor https://threejs.org/editor/
 
-http://americanidolauditiontraining.blogs.com
+++
+1. http://americanidolauditiontraining.blogs.com
+
+9/4
+1. switch live!!! http://switch.sjsu.edu/
+2. switch archive http://switch.sjsu.edu/archive/index.html
+3. switch pipeline https://github.com/SJSU-CADRE/CADRE_SWITCH
+4. p5 reference https://p5js.org/reference/#group-IO
+5. endless horse http://endless.horse/
+6. Jeremy Bailey https://www.youtube.com/watch?v=ypKg3e5lbFU
+7. the useless web https://theuselessweb.com/
+8. my boyfriend came back from the war http://www.teleportacia.org/war/wara.htm
+9. shake vigorously http://www.staggeringbeauty.com/
+10. bedside cellphone holder https://www.google.com/search?q=bedside+cell+phone+holder&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjkvOzvqKLdAhUFKH0KHcq4BiwQ_AUICygC&biw=1505&bih=850&dpr=2#imgrc=u85-6TEgL6LapM:
+11. Coding Train https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw
+
+9/6
+1. https://vimeo.com/229399968
+2. Ann Hirsch https://www.youtube.com/watch?v=k7K37YbhpTA
+3. Visual Studio Code https://code.visualstudio.com/download
+4. p5 lib https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.js
+5. Artist as data https://creators.vice.com/en_us/article/mgpbxa/this-artist-turned-herself-into-a-corporation-to-sell-her-data
+6. occupy.here https://occupyhere.org/
+7. @big_ben_clock https://twitter.com/big_ben_clock
+8. Shane Mecklenburger https://shmeck.com/artwork/detail.php?artworkid=152
+9. Anxious to Make http://anxioustomake.ga/makingyoumakingothers.html
