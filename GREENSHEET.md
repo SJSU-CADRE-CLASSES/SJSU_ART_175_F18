@@ -85,7 +85,7 @@ Schedule
 | 08/30               | EQJS: 1 + 2 ** JS Lesson 2 ** Class exercise/JS Problem Solving |
 | *Week 3* 09/04      | **Due: JS Assignment One** Each student should have a URL for their own website and post a link in the Assignment One folder ** EQJS 2 + 3 Assign: Reading Two ** ideation for project one |
 | 09/6                | EQJS: 4 ** JS Lesson 3 ** Screen related works ** work in class |
-| *Week 4* 09/11      | **Due: Reading Two** Workshop Day (working on your first project) |
+| *Week 4* 09/11      | **Due: [Reading Two](https://schloss-post.com/pretend-bot-rehumanize-web/)** Workshop Day (working on your first project) |
 | 09/13               | ** JS Lesson 4 ** Class Exercise ** |
 | *Week 5* 09/18      | **Presentation Day  ---> Student Presentation of First Project** |
 | 09/20               | **Presentation Day  ---> Student Presentation of First Project** |
