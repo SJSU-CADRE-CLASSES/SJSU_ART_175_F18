@@ -87,8 +87,8 @@ Schedule
 | 09/6                | EQJS: 4 ** JS Lesson 3 ** Screen related works ** work in class |
 | *Week 4* 09/11      | **Due: [Reading Two](https://schloss-post.com/pretend-bot-rehumanize-web/)** Workshop Day (working on your first project) |
 | 09/13               | ** JS Lesson 4 ** Class Exercise ** |
-| *Week 5* 09/18      | **Presentation Day  ---> Student Presentation of First Project** |
-| 09/20               | **Presentation Day  ---> Student Presentation of First Project** |
+| *Week 5* 09/18      | **Presentation Day  ---> Student Presentation of [First Project](https://github.com/ablanton/SJSU_ART_175_F18/blob/master/SJSU_XJS_Project_1.pdf)** |
+| 09/20               | **Presentation Day  ---> Student Presentation of [First Project](https://github.com/ablanton/SJSU_ART_175_F18/blob/master/SJSU_XJS_Project_1.pdf)** |
 | *Week 6* 09/25      | Assign: Reading Three ** EQJS: 5 + 6  ** Assign: Project Two|
 | 09/27               | EQJS: 6 ** JS Lesson 5 ** In Class Ideation + Concepts for Project ** Two Assign Reading Two |
 | *Week 7* 10/02      | **Due: Reading Three** EQJS: 6 JS Problem Solving/Workshop Day |
