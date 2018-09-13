@@ -93,3 +93,10 @@ Resources
 9/11
 1. colourlovers https://www.colourlovers.com/palette/4595713/uveg_homlokzat
 2. w3 schools https://www.w3schools.com/
+3. amazon mechanical turk https://www.mturk.com/
+4. google magenta https://magenta.tensorflow.org/
+5. google deep dream https://www.google.com/search?q=deep+dream&source=lnms&tbm=isch&sa=X&ved=0ahUKEwibqNSb2LPdAhUSI3wKHZbtBVQQ_AUICigB&biw=1415&bih=750#imgrc=Zr4sHq1e6LkORM:
+6. dog or muffin https://www.google.com/search?q=dog+or+muffin&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiBtL7B2LPdAhWJilQKHQrTCOoQ_AUICigB&biw=1872&bih=1075#imgrc=3Q1okDdyz11MsM:
+7. jackson pollock https://www.google.com/search?q=jackson+pollock&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjPytys2bPdAhUnslQKHWQSBFIQ_AUICigB&biw=1872&bih=1075#imgrc=4_lYiiunwzVS4M:
+8. Silvio Lorusso http://silviolorusso.com/
+9. hydra https://github.com/ojack/hydra
