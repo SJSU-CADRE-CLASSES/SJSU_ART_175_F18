@@ -89,3 +89,7 @@ Resources
 7. @big_ben_clock https://twitter.com/big_ben_clock
 8. Shane Mecklenburger https://shmeck.com/artwork/detail.php?artworkid=152
 9. Anxious to Make http://anxioustomake.ga/makingyoumakingothers.html
+
+9/11
+1. colourlovers https://www.colourlovers.com/palette/4595713/uveg_homlokzat
+2. w3 schools https://www.w3schools.com/
