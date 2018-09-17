@@ -100,3 +100,11 @@ Resources
 7. jackson pollock https://www.google.com/search?q=jackson+pollock&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjPytys2bPdAhUnslQKHWQSBFIQ_AUICigB&biw=1872&bih=1075#imgrc=4_lYiiunwzVS4M:
 8. Silvio Lorusso http://silviolorusso.com/
 9. hydra https://github.com/ojack/hydra
+
+9/13
+1. The External World https://www.youtube.com/watch?v=OxPyN6IK1tM&t=214s
+2. The Data Drive http://thedatadrive.com/index.html
+3. Aqua Teen e-Helmet https://www.youtube.com/watch?v=IetE4U3EI-c
+4. like pearls http://likepearls.com/
+5. Octocat https://www.youtube.com/watch?v=XV6dLhepx6w
+6. eyePhone https://www.youtube.com/watch?v=eJyMEkb_8to
