@@ -1,1 +1,3 @@
+For this assignment I wanted to recreate a unique moment during my trip to the Arts Eletronica Festival. I discovered by chance what I believe to be one of the jewels in Linz, a contemporary museum with a collection of exquisite art pieces spread over a vast landscape high above the city. While many visitors focused on the skyline view, I was mainly admiring the art pieces created by a variety of artists from all over the world. Which is the reason I chose to use only black and white colors for landscape images and maintained the original colors of each art installations. I hope you enjoy it. Thanks. 
+
 cleiamuggler.com/Proj1/
