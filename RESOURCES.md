@@ -108,3 +108,12 @@ Resources
 4. like pearls http://likepearls.com/
 5. Octocat https://www.youtube.com/watch?v=XV6dLhepx6w
 6. eyePhone https://www.youtube.com/watch?v=eJyMEkb_8to
+
+9/20
+1. https://twitter.com/notstevely/status/1040462475135737856
+2. https://www.ebay.com/i/183327685034?chn=ps&var=690634227465
+3. https://www.youtube.com/watch?v=pIPgWlE2Ybs
+4. https://www.youtube.com/watch?v=ygI-2F8ApUM
+5. https://www.youtube.com/watch?v=0hVWdu0NsDs
+6. https://threejs.org/editor/
+7. https://threejs.org/examples/#webgl_loader_obj
