@@ -109,7 +109,7 @@ Resources
 5. Octocat https://www.youtube.com/watch?v=XV6dLhepx6w
 6. eyePhone https://www.youtube.com/watch?v=eJyMEkb_8to
 
-9/20
+9/18
 1. https://twitter.com/notstevely/status/1040462475135737856
 2. https://www.ebay.com/i/183327685034?chn=ps&var=690634227465
 3. https://www.youtube.com/watch?v=pIPgWlE2Ybs
@@ -117,3 +117,12 @@ Resources
 5. https://www.youtube.com/watch?v=0hVWdu0NsDs
 6. https://threejs.org/editor/
 7. https://threejs.org/examples/#webgl_loader_obj
+
+9/20
+1. https://melter.club/
+2. http://www.syedrezaali.com/
+3. https://www.emohr.com/ww4_out.html
+4. https://zkm.de/en/event/2005/02/frieder-nake-precise-pleasures
+5. https://www.shadertoy.com/view/4tXGW4
+6. https://www.youtube.com/watch?v=SyIJJr6Ldg8
+7. http://ability.nyu.edu/p5.js-speech/
