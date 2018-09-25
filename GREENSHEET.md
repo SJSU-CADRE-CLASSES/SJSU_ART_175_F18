@@ -89,8 +89,8 @@ Schedule
 | 09/13               | ** JS Lesson 4 ** Class Exercise ** |
 | *Week 5* 09/18      | **Presentation Day  ---> Student Presentation of [First Project](https://github.com/ablanton/SJSU_ART_175_F18/blob/master/SJSU_XJS_Project_1.pdf)** |
 | 09/20               | **Presentation Day  ---> Student Presentation of [First Project](https://github.com/ablanton/SJSU_ART_175_F18/blob/master/SJSU_XJS_Project_1.pdf)** |
-| *Week 6* 09/25      | Assign: Reading Three ** EQJS: 5 + 6  ** Assign: Project Two|
-| 09/27               | EQJS: 6 ** JS Lesson 5 ** In Class Ideation + Concepts for Project ** Two Assign Reading Two |
+| *Week 6* 09/25      | Assign: Reading Three ** EQJS: 4  ** Assign: Project Two|
+| 09/27               | EQJS: 4 ** JS Lesson 5 ** In Class Ideation + Concepts for Project ** Two Assign Reading Two |
 | *Week 7* 10/02      | **Due: Reading Three** EQJS: 6 JS Problem Solving/Workshop Day |
 | 10/04               | EQJS: 7 ** JS Lesson 6 ** Assign Reading Four ** work in class |
 | *Week 8* 10/09      | **Due: Ideation for Project Two** EQJS: 8 ** Screen: Related Work |
