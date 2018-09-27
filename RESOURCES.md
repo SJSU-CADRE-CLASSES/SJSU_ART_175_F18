@@ -126,3 +126,14 @@ Resources
 5. https://www.shadertoy.com/view/4tXGW4
 6. https://www.youtube.com/watch?v=SyIJJr6Ldg8
 7. http://ability.nyu.edu/p5.js-speech/
+
+9/25
+1. occupy.here http://occupyhere.org/
+2. get-lauren https://get-lauren.com/
+3. xbox easter eggs http://gamester81.com/original-xbox-secrets-the-easter-egg-hunter/
+4. openwrt https://openwrt.org/
+5. forkbomb https://en.wikipedia.org/wiki/Fork_bomb
+6. stuxnet https://en.wikipedia.org/wiki/Stuxnet
+7. 0day exploits https://0day.today/
+8. Bit Shift Variations https://github.com/JamesNewton/BitShift-Variations-unrolled/blob/master/code
+9. bitshift source http://txti.es/bitshiftvariationsincminor
