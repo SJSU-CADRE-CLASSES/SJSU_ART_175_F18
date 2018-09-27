@@ -89,7 +89,7 @@ Schedule
 | 09/13               | ** JS Lesson 4 ** Class Exercise ** |
 | *Week 5* 09/18      | **Presentation Day  ---> Student Presentation of [First Project](https://github.com/ablanton/SJSU_ART_175_F18/blob/master/SJSU_XJS_Project_1.pdf)** |
 | 09/20               | **Presentation Day  ---> Student Presentation of [First Project](https://github.com/ablanton/SJSU_ART_175_F18/blob/master/SJSU_XJS_Project_1.pdf)** |
-| *Week 6* 09/25      | Assign: Reading Three ** EQJS: 4  ** Assign: Project Two|
+| *Week 6* 09/25      | Assign: Reading Three ** EQJS: 4  ** Assign: [Project Two](https://github.com/ablanton/SJSU_ART_175_F18/blob/master/SJSU_XJS_Project_2.pdf)|
 | 09/27               | EQJS: 4 ** JS Lesson 5 ** In Class Ideation + Concepts for Project ** |
 | *Week 7* 10/02      | **Due: Reading Three** EQJS: 5 JS Problem Solving/Workshop Day |
 | 10/04               | EQJS: 6 ** JS Lesson 6 ** Assign Reading Four ** work in class |
@@ -97,8 +97,8 @@ Schedule
 | 10/11               | EQJS: 8 ** JS Lesson 7 Work in class on Project Two ** Assign Reading Four |
 | *Week 9* 10/16      | **Due: Reading Four** *EQJS: 9 + 10 ** JS Lesson 7 Work in class on Project Two  | 
 | 10/18               | Screen: Related Work ** JS Lesson 9 |
-| *Week 10* 10/23     | **Presentation Day ---> Student Presentation of Second Project** |
-| 10/25               | **Presentation Day ---> Student Presentation of Second Project** |
+| *Week 10* 10/23     | **Presentation Day ---> Student Presentation of [Project Two](https://github.com/ablanton/SJSU_ART_175_F18/blob/master/SJSU_XJS_Project_2.pdf)** |
+| 10/25               | **Presentation Day ---> Student Presentation of [Project Two](https://github.com/ablanton/SJSU_ART_175_F18/blob/master/SJSU_XJS_Project_2.pdf)** |
 | *Week 11* 10/30     | ** EQJS: 10 ** intro to pi ** Assign: Third Project Assign Reading Five |
 | 11/01               | **Due: Reading Five** ** EQJS: 10 ** JS Lesson 10 |
 | *Week 12* 11/06     | Screen Inspiration Videos + discussion ** Work in class on projects |
