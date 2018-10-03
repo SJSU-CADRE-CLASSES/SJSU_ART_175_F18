@@ -164,3 +164,8 @@ Resources
 11. seapunk https://www.google.com/search?q=seapunk&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjhkt3Lx-jdAhWLwlQKHftPA3EQ_AUIDigB&biw=1742&bih=991#imgrc=kobv-pFmQievPM:
 12. the new aesthetic https://www.google.com/search?q=the+new+aesthetic&tbm=isch&source=iu&ictx=1&fir=e8QhKleh3wLTTM%253A%252CARFYWvT1x7NrDM%252C_&usg=AI4_-kTG4CHi86lNgcTDb10o9NFbdZSfZA&sa=X&ved=2ahUKEwiP6LDix-jdAhVrylQKHSt8CGcQ_h0wFHoECAQQCw#imgrc=N6lQIlO9szuGDM:
 13. photoshop web template https://dribbble.com/shots/1295083-Chrome-Browser-PSD-Download
+14. bootstrap templates https://www.w3schools.com/bootstrap/bootstrap_templates.asp
+15. every bootstrap page ever http://adventurega.me/bootstrap/
+16. rhizome http://rhizome.org/
+17. artfcity http://artfcity.com/
+18. windows93 https://www.windows93.net/#!bananamp
