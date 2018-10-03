@@ -137,3 +137,18 @@ Resources
 7. 0day exploits https://0day.today/
 8. Bit Shift Variations https://github.com/JamesNewton/BitShift-Variations-unrolled/blob/master/code
 9. bitshift source http://txti.es/bitshiftvariationsincminor
+
+10/2
+1. Uncontacted Tribes https://www.google.com/search?q=south+american+tribe+found&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiYn93vvujdAhUxNn0KHWLBDc0Q_AUIDigB&biw=1534&bih=872&dpr=2#imgrc=ayLUhMKCg9j__M:
+2. MockFlow https://mockflow.com/
+3. SWITCH http://switch.sjsu.edu/archive/nextswitch/switch_engine/front/front.php%3Fcat=17.html
+4. PortaPack https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/0/00/Sony_AV-3400_Porta_Pak_Camera.jpg&imgrefurl=https://en.wikipedia.org/wiki/Portapak&h=310&w=565&tbnid=Haqejw5xotIuhM:&q=porta+pack+camera&tbnh=109&tbnw=200&usg=AI4_-kQbWbHUR54nlrux3Alz6AmU8lgGDw&vet=12ahUKEwiQosSnwejdAhV2GjQIHRM6AkMQ_B0wE3oECAoQCQ..i&docid=C6_OUmJeg8IlYM&itg=1&sa=X&ved=2ahUKEwiQosSnwejdAhV2GjQIHRM6AkMQ_B0wE3oECAoQCQ
+5. Diamonds Green Screen https://www.youtube.com/watch?v=WqWtrZh3o-w
+6. #BIGGAN AI https://twitter.com/hashtag/BIGGAN?src=hash
+7. Sattou https://www.google.com/search?q=sattou&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjWvvnMyOjdAhXpx1QKHWuZCWUQ_AUIDigB&biw=1742&bih=991&dpr=2
+8. Vaporwave https://en.wikipedia.org/wiki/Vaporwave
+9. Kanye is trying too hard https://www.thefader.com/2018/09/07/kanye-west-lil-pump-i-love-it-video
+10. anechoic chambber https://www.google.com/search?q=anechoic+chamber&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj_odCSvujdAhXrjlQKHS96BmgQ_AUIDygC&biw=1534&bih=872
+11. seapunk https://www.google.com/search?q=seapunk&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjhkt3Lx-jdAhWLwlQKHftPA3EQ_AUIDigB&biw=1742&bih=991#imgrc=kobv-pFmQievPM:
+12. the new aesthetic https://www.google.com/search?q=the+new+aesthetic&tbm=isch&source=iu&ictx=1&fir=e8QhKleh3wLTTM%253A%252CARFYWvT1x7NrDM%252C_&usg=AI4_-kTG4CHi86lNgcTDb10o9NFbdZSfZA&sa=X&ved=2ahUKEwiP6LDix-jdAhVrylQKHSt8CGcQ_h0wFHoECAQQCw#imgrc=N6lQIlO9szuGDM:
+13. photoshop web template https://dribbble.com/shots/1295083-Chrome-Browser-PSD-Download
