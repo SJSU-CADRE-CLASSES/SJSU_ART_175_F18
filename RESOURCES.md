@@ -138,6 +138,18 @@ Resources
 8. Bit Shift Variations https://github.com/JamesNewton/BitShift-Variations-unrolled/blob/master/code
 9. bitshift source http://txti.es/bitshiftvariationsincminor
 
+9/27
+1. laturbbo https://turboavedon.com/
+2. matt gantt http://gantt.works/
+3. goodbye uncanny valley https://vimeo.com/237568588
+4. deepfake https://www.extremetech.com/extreme/267771-buzzfeed-created-a-deepfake-obama-psa-video
+5. vr gender swap https://vimeo.com/84150219
+6. turbo squid https://www.turbosquid.com/3d-models/free-obj-mode-female-base-mesh/654424
+7. transfer gallery http://transfergallery.com/
+8. feltzine http://feltzine.us/issues/41/vickidang
+9. that other girl https://www.youtube.com/watch?v=koAtzvSBvfE
+10. panther modern http://panthermodern.org/roomnine.html
+
 10/2
 1. Uncontacted Tribes https://www.google.com/search?q=south+american+tribe+found&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiYn93vvujdAhUxNn0KHWLBDc0Q_AUIDigB&biw=1534&bih=872&dpr=2#imgrc=ayLUhMKCg9j__M:
 2. MockFlow https://mockflow.com/
