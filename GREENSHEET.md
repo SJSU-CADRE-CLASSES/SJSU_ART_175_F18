@@ -95,7 +95,7 @@ Schedule
 | 10/04               | EQJS: 5 ** JS Lesson 6 ** Assign Reading Four ** work in class |
 | *Week 8* 10/09      | **Due: Ideation for Project Two** EQJS: 7 ** Screen: Related Work |
 | 10/11               | EQJS: 6 ** JS Lesson 7 Work in class on Project Two ** Assign Reading Four |
-| *Week 9* 10/16      | **Due: Reading Four** *EQJS: 7 ** JS Lesson 7 Work in class on Project Two  | 
+| *Week 9* 10/16      | **Due: Reading Four https://docs.google.com/document/d/1ndd-siDAAiAT1i_zzrG9ACiz5ISastLYvtUrlwyVbqM/edit#heading=h.xp2dduy9ed6v (Read main question and three to five responses)** *EQJS: 7 ** JS Lesson 7 Work in class on Project Two  | 
 | 10/18               | Screen: Related Work ** JS Lesson 9 |
 | *Week 10* 10/23     | **Presentation Day ---> Student Presentation of [Project Two](https://github.com/ablanton/SJSU_ART_175_F18/blob/master/SJSU_XJS_Project_2.pdf)** |
 | 10/25               | **Presentation Day ---> Student Presentation of [Project Two](https://github.com/ablanton/SJSU_ART_175_F18/blob/master/SJSU_XJS_Project_2.pdf)** |
