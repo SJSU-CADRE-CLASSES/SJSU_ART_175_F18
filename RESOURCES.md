@@ -169,3 +169,20 @@ Resources
 16. rhizome http://rhizome.org/
 17. artfcity http://artfcity.com/
 18. windows93 https://www.windows93.net/#!bananamp
+
+10/4
+1. O Superman https://www.youtube.com/watch?v=Vkfpi2H8tOE
+2. Home of the Brave https://www.youtube.com/watch?v=mua8Pr6uRso
+3. Le Corbusier https://en.wikipedia.org/wiki/Le_Corbusier
+4. Java Programming Language https://en.wikipedia.org/wiki/Java_(programming_language)
+5. JavaScript https://en.wikipedia.org/wiki/JavaScript
+6. Inventing the Future https://www.versobooks.com/books/2315-inventing-the-future
+7. Panopticon https://en.wikipedia.org/wiki/Panopticon
+8. Health Goth https://www.google.com/search?q=health+goth&source=lnms&tbm=isch&sa=X&ved=0ahUKEwji0dLnw-3dAhVBFjQIHX_0DaEQ_AUIDigB&biw=1490&bih=742#imgrc=lYNeOlurQsHT0M:
+9. Fake Vacation https://petapixel.com/2014/09/11/dutch-girl-fakes-5-week-vacation-south-east-asia-posting-phoney-photos-facebook/
+10. Moon Wrtiting Club https://www.youtube.com/watch?v=WI98fH8tpJU
+11. Rent a Negro http://archive.rhizome.org/anthology/rent-a-negro.com/
+12. Brian Ferneyhaough https://www.google.com/search?q=brian+ferneyhough&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiqudHH2u3dAhWHwVQKHb38DvgQ_AUIECgD&biw=1490&bih=742&dpr=1#imgrc=DJo1YRPNihChJM:
+13. LZX https://www.youtube.com/watch?v=2Ua4zJd7-7o
+14. FeltZine http://feltzine.us/issues/41/vickidang
+15. Xenakis https://www.google.com/search?q=xenakis&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiE9qHZ2u3dAhWFLnwKHT8GAe8Q_AUIDygC&biw=993&bih=495&dpr=1.5#imgrc=N4t7TANxf5AxJM:
