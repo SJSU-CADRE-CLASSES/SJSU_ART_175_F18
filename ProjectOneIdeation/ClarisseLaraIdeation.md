@@ -1,0 +1,1 @@
+My project idea is to build a dark space surrounded by structures of varying sizes and shapes meant to represent different type of struggles. Amidst the chaotic visual I wanted to put a single gap of white as a way of showing the light at the end of the tunnel. It would be fairly small and you’d have to look around to see it first.
