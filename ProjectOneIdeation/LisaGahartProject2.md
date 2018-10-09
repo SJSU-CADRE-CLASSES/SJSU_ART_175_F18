@@ -1,0 +1,1 @@
+For my project 2 I was thinking about doing a mock of a clothing/model website but having all of the models wearing the clothing be kind of distorted. This is meant to provoke an uncomforable emotion from the audience to show how sexualization and the perfectionism of women are so much a part of our daily lives that it is a shock when that is altered or changed.
