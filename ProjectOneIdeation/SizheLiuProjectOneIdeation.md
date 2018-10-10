@@ -1,0 +1,1 @@
+<p> For now, my idea would be to create a 3d space of galaxy with some abstract geometries in different shapes, sizes, colors and textures. Or If I am able to make something more difficult such as by clicking one of the object to bring me to another space. Hopefully, I can achieve this. I am really new to this, so I am still learning how to do that.</p>
