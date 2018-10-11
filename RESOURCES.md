@@ -202,3 +202,10 @@ Resources
 12. Sinclair Broadcasting https://www.youtube.com/watch?v=khbihkeOISc
 13. Meat Sleep https://www.youtube.com/channel/UCbM2XhkLUniAaiOnzZUW7ng/videos
 14. The Roof is on Fire https://vimeo.com/39865636
+
+10/11
+1. Color Theory https://graf1x.com/product/color-theory-poster/
+2. Anti Aliasing https://svi.nl/AntiAliasing
+3. ThreeJS examples https://threejs.org/examples/#webgl_animation_cloth
+4. In Camera Effects https://www.videomaker.com/article/c10/15680-7-in-camera-and-other-old-school-easy-effects
+5. Amazon AWS https://aws.amazon.com/
