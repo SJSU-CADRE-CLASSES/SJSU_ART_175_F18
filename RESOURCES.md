@@ -186,3 +186,19 @@ Resources
 13. LZX https://www.youtube.com/watch?v=2Ua4zJd7-7o
 14. FeltZine http://feltzine.us/issues/41/vickidang
 15. Xenakis https://www.google.com/search?q=xenakis&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiE9qHZ2u3dAhWFLnwKHT8GAe8Q_AUIDygC&biw=993&bih=495&dpr=1.5#imgrc=N4t7TANxf5AxJM:
+
+10/9
+1. la pocha nostra https://www.youtube.com/watch?v=fIfAk-guplA
+2. manufacturing concent https://www.youtube.com/watch?v=tTBWfkE7BXU
+3. https://angelawashko.com/artwork/3756514-Safety-Sea-Change-An-Interview-in-World-of-Warcraft.html
+4. All watched over by loving grace https://vimeo.com/groups/96331/videos/80799353
+5. Milley Brown https://www.youtube.com/watch?v=1dZ5BtZkIR4
+6. uber live feed https://twitter.com/search?f=tweets&q=trip-dc2.uber.com
+7. screaming yellow https://www.youtube.com/watch?v=pPaEdvCs1C8
+8. Faith Holland http://www.faithholland.com/portfolio_page/ookie-canvases/
+9. Krystal South http://idyrself.com/
+10. Ryder Ripps http://ryder-ripps.com/
+11. IRUS Art https://www.google.com/search?q=irus+art&tbm=isch&source=iu&ictx=1&fir=cmsp78quqxw7NM%253A%252CLY9BcohchSZghM%252C_&usg=AI4_-kQimbzHPsAhebmbBHC60-h10cxpng&sa=X&ved=2ahUKEwiIn6TWi_rdAhX5FjQIHS1DAOYQ9QEwAXoECAEQBA#imgrc=cmsp78quqxw7NM:
+12. Sinclair Broadcasting https://www.youtube.com/watch?v=khbihkeOISc
+13. Meat Sleep https://www.youtube.com/channel/UCbM2XhkLUniAaiOnzZUW7ng/videos
+14. The Roof is on Fire https://vimeo.com/39865636
