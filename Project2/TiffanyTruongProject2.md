@@ -2,8 +2,6 @@ https://tinyurl.com/ybgytz88
 
 https://tinyurl.com/ycsukja4
 
-Will update with description later
-
 So with the second project, I wanted to convey how companies collect data of people who use their products without their knowledge. My original plan was to create a scene in ThreeJS showing a greenhouse in a meadow. As soon as the viewer opened the page (and as they continue moving around the model), a Twitter bot would be tweeting out their mouse location and their overall movements. The reason why I chose to create a 3D model of a greenhouse as the thing being observed while a person's activities are being publicized is because peoples' data are like the plants in the building: they are collected and logged without being moved / used until necessary. The greenhouse owners and the companies have complete control over what they do with their products/data.
 
 But this obviously didn't happen.
