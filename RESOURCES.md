@@ -209,3 +209,44 @@ Resources
 3. ThreeJS examples https://threejs.org/examples/#webgl_animation_cloth
 4. In Camera Effects https://www.videomaker.com/article/c10/15680-7-in-camera-and-other-old-school-easy-effects
 5. Amazon AWS https://aws.amazon.com/
+
+10/16
+
+1. PONPONPON https://www.youtube.com/watch?v=yzC4hFK5P3g&feature=youtu.be
+2. Aquaphobia https://www.youtube.com/watch?v=dI1qrF65w4I
+3. DiMoDa https://dimoda.art/download
+4. Inception VR https://inceptionvr.com/download/
+5. Tyler Stannard Virtual Landscapes https://www.youtube.com/watch?v=Ac7L0gVn26s
+6. Waffa Balial https://www.youtube.com/watch?v=DcyquvDEe0o
+7. VR 3D tools https://www.digitalartsonline.co.uk/features/hacking-maker/7-best-tools-for-painting-3d-modelling-sculpting-in-vr/
+8. Audi Sandbox https://www.youtube.com/watch?v=8Ik4Pn2fF7c
+9. Teletubbies GTA https://www.youtube.com/watch?v=1Seo2WhKztg
+10. Family Finger https://www.youtube.com/watch?v=YJyNoFkud6g
+11. Claudia Hart http://streamingmuseum.org/on-synchronics/
+12. UCLA AR Sandbox https://www.youtube.com/watch?v=CE1B7tdGCw0
+
+10/18
+
+1. Holly Herndon https://www.youtube.com/watch?v=I_3mCDJ_iWc
+2. Paint Your Life https://www.paintyourlife.com/how-it-works.php
+3. Shifman on Node.js https://www.youtube.com/watch?v=2hhEOGXcCvg
+4. Node Example https://github.com/CodingTrain/website/tree/master/Node/sockets
+
+10/23
+
+1. VanGogh in 3D https://www.youtube.com/watch?v=wwEtxQs940g
+2. AFrame Asset Managet https://github.com/aframevr/aframe/blob/master/docs/core/asset-management-system.md
+3. 3D Solar System https://www.youtube.com/watch?v=pwaTzpNo4BA
+4. Tweet Roach https://www.engadget.com/2013/01/01/twitter-roach-takes-guidance-from-tweets/
+5. James Turrell https://moody.rice.edu/art/james-turrell
+6. Zoltar https://www.youtube.com/watch?v=U8Jdhh1L70Y
+
+10/25
+
+1. Raspberry Pi Projects https://projects.raspberrypi.org/en/
+2. Batman Mesh https://www.reddit.com/r/darknetplan/comments/68s6jp/how_to_configure_batmanadv_on_the_raspberry_pi_3/
+3. Steina and Woddy Vasulka https://www.youtube.com/watch?v=uYyR6EWbPC0
+4. Slit Scan http://www.flong.com/texts/lists/slit_scan/
+5. Occupy Here http://occupyhere.org/
+6. Raddical Networks https://radicalnetworks.org/participants/
+7. MiniMAD https://madmapper.com/minimad/
