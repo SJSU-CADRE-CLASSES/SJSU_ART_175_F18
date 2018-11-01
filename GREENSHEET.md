@@ -100,8 +100,8 @@ Schedule
 | *Week 10* 10/23     | **Presentation Day ---> Student Presentation of [Project Two](https://github.com/ablanton/SJSU_ART_175_F18/blob/master/SJSU_XJS_Project_2.pdf)** |
 | 10/25               | **Presentation Day ---> Student Presentation of [Project Two](https://github.com/ablanton/SJSU_ART_175_F18/blob/master/SJSU_XJS_Project_2.pdf)** |
 | *Week 11* 10/30     | ** EQJS: 10 ** intro to pi ** Assign: Third Project Assign Reading Five |
-| 11/01               | **Due: Reading Five** ** EQJS: 10 ** JS Lesson 10 |
-| *Week 12* 11/06     | Screen Inspiration Videos + discussion ** Work in class on projects |
+| 11/01               | ** EQJS: 10 ** JS Lesson 10 |
+| *Week 12* 11/06     | **Due: "Reading" Five** https://www.youtube.com/watch?v=T1Qhy0_PCjs Screen Inspiration Videos + discussion ** Work in class on projects |
 | 11/08               | EQJS: 20 + 21 ** JS Lesson 11 ** Workshop day for third Project ** Assign: Introduction of Final|
 | *Week 13* 11/13     | Workshop day or Optional ATC in MLK |
 | 11/15               | **Third Project Due** |
