@@ -103,8 +103,8 @@ Schedule
 | 11/01               | ** EQJS: 10 ** JS Lesson 10 |
 | *Week 12* 11/06     | **Due: "Reading" Five** https://www.youtube.com/watch?v=T1Qhy0_PCjs Screen Inspiration Videos + discussion ** Work in class on projects |
 | 11/08               | EQJS: 20 + 21 ** JS Lesson 11 ** Workshop day for third Project ** Assign: Introduction of Final|
-| *Week 13* 11/13     | Workshop day or Optional ATC in MLK |
-| 11/15               | **Third Project Due** |
+| *Week 13* 11/13     |**Third Project Due**|
+| 11/15               | Workshop day or Optional ATC in MLK|
 | *Week 14* 11/20     | Screen Inspiration Videos + discussion ** Work in class on projects |
 | 11/22               | Thanksgiving – no class |
 | *Week 15* 11/27     | **Due Ideas + Concepts for the final project** (each student/team must post to git with sketches/research notes/and concepts they are interested in) Work in class on final |
