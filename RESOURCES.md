@@ -250,3 +250,24 @@ Resources
 5. Occupy Here http://occupyhere.org/
 6. Raddical Networks https://radicalnetworks.org/participants/
 7. MiniMAD https://madmapper.com/minimad/
+
+10/30
+1. Sabrina Ratte https://vimeo.com/52214011
+2. Pi Kinetic art table https://www.raspberrypi.org/blog/sisyphus-kinetic-art-table/
+3. Social Print https://www.socialprintstudio.com/
+4. Shiffman Node Tutorial https://www.youtube.com/watch?v=bjULmG8fqc8
+5. CreativeApplications https://www.creativeapplications.net/
+6. Getting Started with Pi https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/2
+
+10/1
+1. Versailles https://www.google.com/maps/@48.8051113,2.1209161,2a,75y,182.62h,97.36t/data=!3m6!1e1!3m4!1splXkWwdfOa5Rxae7FLYMyQ!2e0!7i13312!8i6656
+2. AngularJS https://angularjs.org/
+3. Google Maps Waybback https://web.archive.org/web/20090901000000*/maps.google.com
+4. Adobe Dimensions https://www.adobe.com/products/dimension.html#x
+5. Amazon AWS https://aws.amazon.com/
+6. Amazon AWS Node Tutorial https://www.youtube.com/watch?v=WxhFq64FQzA
+7. Adobe XD Wireframing tool https://creative.adobe.com/products/download/xd?promoid=35SVBVP4&mv=other
+8. Node install on Windows https://blog.teamtreehouse.com/install-node-js-npm-windows
+9. Sabrina Ratte https://vimeo.com/86279820
+
+11/6
