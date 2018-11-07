@@ -258,6 +258,13 @@ Resources
 4. Shiffman Node Tutorial https://www.youtube.com/watch?v=bjULmG8fqc8
 5. CreativeApplications https://www.creativeapplications.net/
 6. Getting Started with Pi https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/2
+7. Nervous System https://n-e-r-v-o-u-s.com/projects/albums/giant-hyphae-lamps-for-summit-at-sea/
+8. Chrome extension tut https://www.youtube.com/watch?v=IXXNIcQQLU8
+9. Smart Mirror https://www.youtube.com/watch?v=fkVBAcvbrjU&vl=en
+10. R Kelly Mirror https://www.youtube.com/watch?v=KuwyR0OW-nc
+11. Solar Sinter https://vimeo.com/25401444
+12. Gabe Dunne Naga https://vimeo.com/143513766
+13. FAT Labs https://grayarea.org/event/f-a-t-gold-san-francisco/
 
 10/1
 1. Versailles https://www.google.com/maps/@48.8051113,2.1209161,2a,75y,182.62h,97.36t/data=!3m6!1e1!3m4!1splXkWwdfOa5Rxae7FLYMyQ!2e0!7i13312!8i6656
