@@ -271,3 +271,11 @@ Resources
 9. Sabrina Ratte https://vimeo.com/86279820
 
 11/6
+
+1. Lasagna Cat https://www.youtube.com/user/lasagnacat/videos
+2. Holocene https://en.wikipedia.org/wiki/Holocene
+3. Ariadne https://vimeo.com/138813643
+4. Celestial Spheres https://en.wikipedia.org/wiki/Celestial_spheres
+5. Gelogic Epoch http://www.geologyin.com/2015/03/epoch-defining-study-pinpoints-when.html
+6. Night Sky https://vimeo.com/22439234
+7. Point Arena https://www.google.com/maps/place/Point+Arena,+CA+95468/@38.1700461,-123.0250047,8z/data=!4m5!3m4!1s0x808118d7d648777d:0x755ce630f0324829!8m2!3d38.908798!4d-123.6930726
