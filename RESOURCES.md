@@ -286,3 +286,11 @@ Resources
 5. Gelogic Epoch http://www.geologyin.com/2015/03/epoch-defining-study-pinpoints-when.html
 6. Night Sky https://vimeo.com/22439234
 7. Point Arena https://www.google.com/maps/place/Point+Arena,+CA+95468/@38.1700461,-123.0250047,8z/data=!4m5!3m4!1s0x808118d7d648777d:0x755ce630f0324829!8m2!3d38.908798!4d-123.6930726
+
+11/8
+1. earth https://vimeo.com/32001208
+2. Chrome extension tut https://www.youtube.com/watch?v=hkOTAmmuv_4
+3. Express JS https://expressjs.com/en/starter/hello-world.html
+4. Node https://nodejs.org/en/
+5. twitter bot tut https://www.youtube.com/watch?v=RF5_MPSNAtU
+6. websocket node server example https://github.com/CodingTrain/website/blob/master/Node/sockets/server.js
