@@ -7,6 +7,7 @@ https://uglykiki.github.io/BlackMirror/slitscan.html
 2. Year: 2018
 3. Media: Raspberry Pi, Screen, Frame, webcam
 4. Dimension: Screensize 1440px * 768px 
+5. Resources: P5.js, Raspbian, Processing, OpenCV 
 
 
 ## Chapter1
@@ -28,6 +29,12 @@ It gets hader to perceive our unique identity
 1. Stilscan + audio
 2. Video echo
 3. Motion detection + audio
+4. Face detection + gif mask
+
+### Prototype
+![Imgur](https://i.imgur.com/AzDUGYL.png)
+![Imgur](https://i.imgur.com/J7YnmEy.png)
+![Imgur](https://i.imgur.com/pvNRD2K.jpg)
 
 
 # Concepts 
@@ -36,7 +43,10 @@ It gets hader to perceive our unique identity
 3. Use neon colors to enhance personality / create a fantasy world
 4. Fluid identity
 
+### Rosa Menkman, Vernacular File Formats, 2010
 ![Imgur](https://i.imgur.com/5dnv6gz.jpg)
+
+### Rollin Leonard, 360° / 18 Lilia, 2013
 ![Imgur](https://i.imgur.com/4T6ftHw.png)
 
 
@@ -44,15 +54,8 @@ The camera represents how others look at you, the sketches are like filters. Whe
 
 Shifting identities to better adapt to a new environment - Trying to be everywhere to better fit, living in virtual and physical environments.
 
-Also, inspired by <b>Do Ho Suh, Who Am We?, 1999</b>
+
+Also, inspired by
+### Do Ho Suh, Who Am We?, 1999
 ![Imgur](https://i.imgur.com/LvF5g4v.jpg)
-
-
-
-
-
-
-
-
-
 
