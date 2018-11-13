@@ -1,26 +1,25 @@
 Students involved in project: Cleia, Kiki, Sizheliu, Lisa
 
 # About This Project
+https://uglykiki.github.io/BlackMirror/slitscan.html
+
 1. Title: Pixel Punk
 2. Year: 2018
 3. Media: Raspberry Pi, Screen, Frame, webcam
 4. Dimension: Screensize 1440px * 768px 
 
+
 ## Chapter1
-You know the slices of me
-
-Every movement, gesture, behaviour 
-
-Might change the results of how you perceive me
-
+You know the slices of me<br>
+Every movement, gesture, behaviour<br>
+Might change the results of how you perceive me<br>
 It's so real, but not the entire story.
 
 ![Imgur](https://i.imgur.com/1mWJtgP.png)
 
 ## Chapter 2
-The true self is always shifting.
-
-We learn to adapt well to a new environment, or we have to.
+The true self is always shifting.<br>
+We learn to adapt well to a new environment, or we have to.<br>
 
 It gets hader to perceive our unique identity
 ![Imgur](https://i.imgur.com/mLNqJUE.png)
@@ -29,6 +28,7 @@ It gets hader to perceive our unique identity
 1. Stilscan + audio
 2. Video echo
 3. Motion detection + audio
+
 
 # Concepts 
 1. Personality layers
