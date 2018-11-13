@@ -1,0 +1,5 @@
+﻿http://anthonyastorri.com/Project2/index.html
+
+Project 2: Incomplete is meant to visually the thought space of an artist who has many ideas but none are fully formed. It is meant to be a dialogue on how artists start projects, only to leave them for new ones, which are then replaced, and the cycle continues. I am guilty of this myself, which is why I decided to create this project. The white spheres in the space represent these thoughts, and I decided to use a wireframe material along with an updating x-axis rotation to make it them look like tv static, the thoughts unclear. I was also inspired by the aesthetic of the 2015 indie game Undertale by developer Toby Fox, which features a blank, black canvas with white shapes, and a character who is represented by a red sprite. The music track heard in the background is also from the game, and is titled In My Way. It is meant to instill a sense of unease, as if you're looking at a graveyard.  
+
+To hear the sound, please do not use Chrome, as the <audio> autoplay feature has been disabled. 
