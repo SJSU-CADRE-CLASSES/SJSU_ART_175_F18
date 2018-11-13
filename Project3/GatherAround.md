@@ -12,5 +12,5 @@ The term ‘anxiety’ is commonly used by the internet users as a joke and it�
   
   Calvin: Came up with the idea for the website, planned the webiste, wrote the discussion questions Lastly, Created CSS and added sounds. 
   
-  Christian: Created the wireframe for the website and wrote HTML codes.
+  Christian: Created the wireframe for the website and wrote HTML codes. Also created the base layout and flow of the website in HTML. 
   
