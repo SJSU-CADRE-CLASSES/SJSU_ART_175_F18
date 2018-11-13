@@ -22,7 +22,7 @@ It's so real, but not the entire story.
 The true self is always shifting.<br>
 We learn to adapt well to a new environment, or we have to.<br>
 
-It gets hader to perceive our unique identity
+It gets harder to perceive our unique identity
 ![Imgur](https://i.imgur.com/mLNqJUE.png)
 
 # Best ideas when brainstorming 
