@@ -294,3 +294,17 @@ Resources
 4. Node https://nodejs.org/en/
 5. twitter bot tut https://www.youtube.com/watch?v=RF5_MPSNAtU
 6. websocket node server example https://github.com/CodingTrain/website/blob/master/Node/sockets/server.js
+
+11/20
+1. SOLIPSITS https://vimeo.com/37848135
+2. Young Jake embeded http://e.m-bed.de/d/
+3. The Pricemaster https://www.youtube.com/watch?v=CUmmxW7Ksc8
+4. Feminist Economics Yoga https://www.youtube.com/watch?v=yp-bdICUc9Y
+5. When I think About You I Text Myself http://whenithinkaboutyouitextmyself.com/
+6. D3JS https://beta.observablehq.com/@mbostock/d3-sankey-diagram
+7. Listen to Wekipedia http://listen.hatnote.com/
+8. AI Essay https://twitter.com/art104bot
+9. Rhyzome Anthology https://anthology.rhizome.org/
+10. How to Make Yourself http://anxioustomake.ga/makingyoumakingothers.html
+11. Thoughts on Glitch Art 2.0 http://nickbriz.com/thoughtsonglitchart/
+12. How and why to leave Facebook https://www.youtube.com/watch?v=JEeR9jUsiyo
