@@ -1,2 +1,3 @@
 Members: Cleia, Clarisse, Sizhe
 
+How people present themselves to others in reality can greatly differ from how they present themselves on social media sites. Because the internet lacks the pressure of talking to another person face-to-face, people tend to be more active online while being more private in their personal lives. For our project we will use images from social media sites to tell the story of a single person's life online. The figure itself will look calm, but the images used to show their online life are opposite and display the various struggles that they're facing with others on the site. We also plan to incorporate text messages to further the character's hidden struggles.
