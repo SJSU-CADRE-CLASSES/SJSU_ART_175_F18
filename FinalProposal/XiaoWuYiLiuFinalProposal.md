@@ -1,1 +1,1 @@
-For the final project we are going to expand idea on the node.js project. Our goal is to run the node.js on AWZ and create a new program that shares data between two port. The program not decided yet, but probably something created with p5.js or processing.
+For the final project we are going to expand idea on the node.js project. Our goal is to run the node.js on Amazon Web Server and create a new program that shares data between two port. The program not decided yet, but probably something created with p5.js or processing.
