@@ -1,4 +1,4 @@
-<a href="https://uglykiki.github.io/jschatbot/"> “After you die, your digital self could live on as a chatbot”</a>
+<a href="http://kikiwu.blog/"> “After you die, your digital self could live on as a chatbot”</a>
 ## Github
 <p>https://github.com/uglykiki/jschatbot</p>
 
