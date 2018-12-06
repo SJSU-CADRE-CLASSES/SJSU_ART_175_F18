@@ -2,5 +2,5 @@ For our final project we created a chatbot that helps you speak to and connect t
 
 http://www.lisagahartdesign.com/chatbot/
 
-![alt text](file:///C:/Users/lisag/OneDrive/Desktop/0.png)
+![alt tag](file:///C:/Users/lisag/OneDrive/Desktop/0.png)
 
