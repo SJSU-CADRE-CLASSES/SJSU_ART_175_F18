@@ -1,0 +1,4 @@
+<br>
+<a href="https://docs.google.com/document/d/1imZGp4msi_cDDIkX1jNk5Wtqb7nEATedzRNtmXpcARA/edit?ts=5c021426#"> “After you die, your digital self could live on as a chatbot”</a>
+<br>
+<p>https://github.com/uglykiki/jschatbot</p>
