@@ -1,4 +1,4 @@
-﻿![alt text](https://imgur.com/a/nNECAe3)
+﻿![alt text](https://imgur.com/a/nNECAe3.jpg)
 
 
 Final - Fake News 
