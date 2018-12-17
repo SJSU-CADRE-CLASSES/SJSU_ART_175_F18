@@ -1,7 +1,6 @@
-FINAL PROJECT PROPOSAL: CoDraw Pannel
+# FINAL PROJECT PROPOSAL: CoDraw Pannel
 Xiao Wu & Yi Liu
-
-
+--------------------------
 
 Our project for the final is a collaboration drawing board. Basically, it is a web-based drawing canvas that can be shared on different screens. The concept of this project is to let people collaborating on the same project from a certain distance and experience the unique sensation. In project 2, we made a similar piece while it could only work on the local server. This time we have put it onto the cloud, which means everyone can access the canvas from his or her laptop and cell phone while the server is up. Although the idea sounds very simple, there was a quite complex process to reach it. What we did is to hold a server for the data exchanging. Each user will upload their mouse data whenever they have progress on the canvas. Meanwhile, the server will transfer the data it received to the other users who have connected to the server and make the same drawing on their side. As a result, everyone has a synchronous canvas on his or her screen and therefore able to build his or her idea on the same canvas. In the latter paragraph, we would like to introduce some of our experience to realize the project.
 
@@ -14,7 +13,8 @@ Of course, there are many difficulties we have experienced in this project. The 
 In the future, we might develop more experience on the website. Maybe more colors among different players, maybe bigger canvas, maybe output or save the canvas. Maybe more. We really like this project and really have fun. We hope people can enjoy making a unique masterpiece through the internet cooperation with their friends. 
 
 To reach our website, click on: http://54.219.165.57:8080/
-
+[img]https://imgur.com/szgCKaA
+[img]https://imgur.com/Jay4Wk7
 
 
 
