@@ -13,8 +13,8 @@ Of course, there are many difficulties we have experienced in this project. The 
 In the future, we might develop more experience on the website. Maybe more colors among different players, maybe bigger canvas, maybe output or save the canvas. Maybe more. We really like this project and really have fun. We hope people can enjoy making a unique masterpiece through the internet cooperation with their friends. 
 
 To reach our website, click on: http://54.219.165.57:8080/
-[img]https://imgur.com/szgCKaA
-[img]https://imgur.com/Jay4Wk7
+![alt text](https://imgur.com/szgCKaA)
+![alt text](https://imgur.com/Jay4Wk7)
 
 
 
