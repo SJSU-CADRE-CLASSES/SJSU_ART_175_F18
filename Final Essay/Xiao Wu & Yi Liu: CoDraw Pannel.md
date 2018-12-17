@@ -12,7 +12,7 @@ The final thing we did for the project is the UI improvement. Despite the title 
 Of course, there are many difficulties we have experienced in this project. The hardest work is to transfer the project from local to AWS. First, there are many security-related problems that preventing you to connect to AWS, as well as the way to solve it is quite different between Windows user and Mac User. Meanwhile, we also spend a long time on troubleshooting when the client stops talking to each other after uploading to AWS. We finally found the IP address that the client pointed has to be the AWS’ while the server has to keep the local IP address. The project finally works successfully and have been presented to the class. We have a lot of fun while presenting, not only collaborate to make a draw, but also destroying others’ piece. After all, it was a great experience to achieve our goal. 
 In the future, we might develop more experience on the website. Maybe more colors among different players, maybe bigger canvas, maybe output or save the canvas. Maybe more. We really like this project and really have fun. We hope people can enjoy making a unique masterpiece through the internet cooperation with their friends. 
 
-######To reach our website, click on: http://54.219.165.57:8080/
+###### To reach our website, click on: http://54.219.165.57:8080/
 ![gallery-gif](https://imgur.com/szgCKaA.png)
 ![gallery-gif](https://imgur.com/Jay4Wk7.png)
 
